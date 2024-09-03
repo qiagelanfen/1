@@ -1,0 +1,35 @@
+long_term_forecast_ETTh1_96_96_TEFN_ETTh1_ftM_sl96_ll48_pl96_dm16_nh8_el2_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.38402774930000305, mae:0.3916093707084656, sum:-7683.3330078125,dtw:-999
+
+long_term_forecast_ETTh1_96_192_TEFN_ETTh1_ftM_sl96_ll48_pl192_dm16_nh8_el4_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.43452975153923035, mae:0.4206030070781708, sum:-50082.8125,dtw:-999
+
+long_term_forecast_ETTh1_96_336_TEFN_ETTh1_ftM_sl96_ll48_pl336_dm16_nh8_el1_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.47469061613082886, mae:0.4400917589664459, sum:-157511.328125,dtw:-999
+
+long_term_forecast_ETTh1_96_720_TEFN_ETTh1_ftM_sl96_ll48_pl720_dm16_nh8_el1_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.48517683148384094, mae:0.4722599685192108, sum:-1188746.5,dtw:-999
+
+long_term_forecast_ETTh1_96_96_TEFN_ac_ETTh1_ftM_sl96_ll48_pl96_dm16_nh8_el2_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.38515418767929077, mae:0.3933145999908447, sum:-3372.307861328125,dtw:-999
+
+long_term_forecast_ETTh1_96_192_TEFN_ac_ETTh1_ftM_sl96_ll48_pl192_dm16_nh8_el4_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.4629603326320648, mae:0.4432005286216736, sum:-102872.3984375,dtw:-999
+
+long_term_forecast_ETTh1_96_336_TEFN_ac_ETTh1_ftM_sl96_ll48_pl336_dm16_nh8_el1_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.47772735357284546, mae:0.4404876232147217, sum:-176396.234375,dtw:-999
+
+long_term_forecast_ETTh1_96_720_TEFN_ac_ETTh1_ftM_sl96_ll48_pl720_dm16_nh8_el1_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.4777188301086426, mae:0.4616764485836029, sum:-1018769.1875,dtw:-999
+
+long_term_forecast_ETTh1_96_96_TEFN_at_ETTh1_ftM_sl96_ll48_pl96_dm16_nh8_el2_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.38617900013923645, mae:0.39368778467178345, sum:-21362.673828125,dtw:-999
+
+long_term_forecast_ETTh1_96_192_TEFN_at_ETTh1_ftM_sl96_ll48_pl192_dm16_nh8_el4_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.4412609338760376, mae:0.42572006583213806, sum:-29305.140625,dtw:-999
+
+long_term_forecast_ETTh1_96_336_TEFN_at_ETTh1_ftM_sl96_ll48_pl336_dm16_nh8_el1_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.478733628988266, mae:0.44449731707572937, sum:-146786.671875,dtw:-999
+
+long_term_forecast_ETTh1_96_720_TEFN_at_ETTh1_ftM_sl96_ll48_pl720_dm16_nh8_el1_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.48163503408432007, mae:0.4691050052642822, sum:-1048734.625,dtw:-999

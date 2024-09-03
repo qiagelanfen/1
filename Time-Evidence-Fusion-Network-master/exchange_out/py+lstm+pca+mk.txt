@@ -1,0 +1,27 @@
+long_term_forecast_Exchange_96_96_TEFN_custom_ftM_sl96_ll48_pl96_dm64_nh8_el0_dl1_df64_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.0949966087937355, mae:0.21285606920719147, sum:88587.640625,dtw:-999
+
+long_term_forecast_Exchange_96_192_TEFN_custom_ftM_sl96_ll48_pl192_dm64_nh8_el3_dl1_df64_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.18332673609256744, mae:0.30190664529800415, sum:273282.5625,dtw:-999
+
+long_term_forecast_Exchange_96_336_TEFN_custom_ftM_sl96_ll48_pl336_dm32_nh8_el0_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.3585912585258484, mae:0.42946553230285645, sum:848415.1875,dtw:-999
+
+long_term_forecast_Exchange_96_720_TEFN_custom_ftM_sl96_ll48_pl720_dm32_nh8_el4_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.9000605940818787, mae:0.7144226431846619, sum:2611693.0,dtw:-999
+
+activation=GELU,d_models=16,p_hidden_layers=1
+long_term_forecast_Exchange_96_720_TEFN_custom_ftM_sl96_ll48_pl720_dm32_nh8_el4_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.8963402509689331, mae:0.7113420963287354, sum:2586349.5,dtw:-999
+
+activation=GELU,d_models=16,p_hidden_layers=2
+long_term_forecast_Exchange_96_720_TEFN_custom_ftM_sl96_ll48_pl720_dm32_nh8_el4_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.9482510089874268, mae:0.7316280007362366, sum:2682834.5,dtw:-999
+
+activation=GELU,d_models=32,p_hidden_layers=1
+long_term_forecast_Exchange_96_720_TEFN_custom_ftM_sl96_ll48_pl720_dm32_nh8_el4_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.9473662972450256, mae:0.7316834330558777, sum:2676557.75,dtw:-999
+
+activation=GELU,d_models=32,p_hidden_layers=2
+long_term_forecast_Exchange_96_720_TEFN_custom_ftM_sl96_ll48_pl720_dm32_nh8_el4_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.9199193716049194, mae:0.7201552391052246, sum:2616745.25,dtw:-999

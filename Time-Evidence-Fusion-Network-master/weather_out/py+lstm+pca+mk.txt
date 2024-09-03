@@ -1,0 +1,2 @@
+long_term_forecast_weather_96_96_TEFN_custom_ftM_sl96_ll48_pl96_dm32_nh8_el0_dl1_df32_expand2_dc4_fc3_ebtimeF_dtTrue_Exp_0  
+mse:0.18512125313282013, mae:0.22968558967113495, sum:-306283.46875,dtw:-999

@@ -1,0 +1,11 @@
+activations=GELU,d_modelss=128,p_hidden_layerss=2
+mse:0.19689388573169708, mae:0.2732067406177521, sum:-1324277.375,dtw:-999
+
+activations=Swish,d_modelss=512,p_hidden_layerss=2
+mse:0.19618670642375946, mae:0.2760343551635742, sum:-3083775.25,dtw:-999
+
+activations=Swish,d_modelss=256,p_hidden_layerss=3
+mse:0.21074743568897247, mae:0.29121145606040955, sum:-9892512.0,dtw:-999
+
+activations=GELU,d_modelss=256,p_hidden_layerss=1
+mse:0.2526717185974121, mae:0.3244198262691498, sum:-20674304.0,dtw:-999
